@@ -1,0 +1,14 @@
+*~
+*.alfredworkflow
+Tesseract.*
+wfbuild
+bin
+urllib3
+urllib3-*
+requests
+requests-*
+idna
+idna-*
+*List Filter Images
+charset_normalizer*
+*.pyc
